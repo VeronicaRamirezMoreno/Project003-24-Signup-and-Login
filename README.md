@@ -2,9 +2,9 @@
 
 This project is an interactive SignUp and LogIn form created using ReactJS, JavaScript, and CSS. It offers a smooth and efficient user experience, allowing users to register or log in to an application.
 
-![Captura de pantalla 2024-01-30 121014](https://github.com/VeronicaRamirezMoreno/Project003-24-Signup-and-Login/assets/122170615/a1a5a776-db89-481e-be42-726be58a22fe)
+![hello](https://github.com/VeronicaRamirezMoreno/Project003-24-Signup-and-Login/assets/122170615/0c25361d-5ad9-48a0-ba56-279781d1dbf9)
 
-![Captura de pantalla 2024-01-30 120945](https://github.com/VeronicaRamirezMoreno/Project003-24-Signup-and-Login/assets/122170615/13eeef3d-6934-47e1-940d-eba314b642ff)
+![hello2](https://github.com/VeronicaRamirezMoreno/Project003-24-Signup-and-Login/assets/122170615/f03ef472-8fc7-42ef-9d3b-3850fb501889)
 
 ## Learning Objectives
 
